@@ -1,0 +1,6 @@
+#bitwise operators
+a = int(input('enter a number:'))
+b = int(input('enter a number:'))
+print('bitwise and of a and b is:',a&b)
+print('bitwise or of a and b is:',a|b)
+print('bitwise exclusive or of a and b is :',a^b)
